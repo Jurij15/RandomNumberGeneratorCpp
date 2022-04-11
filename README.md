@@ -1,2 +1,2 @@
 # RandomNumberGeneratorCpp
-A very basic RandomNumberGenerator, made in C++
+A very simple and basic RandomNumberGenerator, made in C++
